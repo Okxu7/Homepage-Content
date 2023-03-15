@@ -1,12 +1,12 @@
 body {
-  background-image: url(bg.png  ) ;  
+  background-image: url(images/bg.png  ) ;  
  background-size: 100% ;       /*   calc(100%) ,  cover  */
  
 text-align: center;
 }
  
 div {
-    margin-top: 260px;
+    margin-top: 220px;
 
     height: 699px;
 }
@@ -47,18 +47,18 @@ button {
  font-size: 14px;
  font-weight: 700;
  margin-bottom: 330px;
- margin-top: 110px;
+ margin-top: 90px;
 }
 
 .foto {
 padding-top: 80px;
   background-color: rgb(28, 28, 28) ;  
-  height: 1498px;
+  height: 1388px;
  
 }
 
 img {
-  margin: 22px;
+  margin: 12px;
 }
 
 .f1 {
